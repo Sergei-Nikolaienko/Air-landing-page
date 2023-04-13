@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Landing Page With Image Carousel
+AIR landing page created using pure HTML, Javascript and SCSS. 
+Built according to BEM conventions according to a provided Figma design.
+
+    - [DEMO LINK](https://Sergei-Nikolaienko.github.io/Air-landing-page/)
